@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 
+tryna be a fullstack frontend developer
+looking forward to collaborate in projects 
+React ,Django ,typescript
 <!--
 **Melanzy78/Melanzy78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
