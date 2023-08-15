@@ -1,4 +1,4 @@
-### Hi there 
+###  linguist in c++
 tryna be a fullstack frontend developer
 looking forward to collaborate in projects 
 React ,Django ,typescript
