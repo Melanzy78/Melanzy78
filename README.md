@@ -1,7 +1,7 @@
 ###  linguist in c++
-tryna be a fullstack frontend developer
+ a fullstack frontend developer
 looking forward to collaborate in projects 
-React ,Django ,typescript
+React ,Django ,typescript,Css ,html
 <!--
 **Melanzy78/Melanzy78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
